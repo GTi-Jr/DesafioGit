@@ -1,0 +1,2 @@
+O QUE É GIT
+-Git é uma ferramenta que permite versatilidade na codificação, trabalho remoto de grupo e modularização. Poderia dizer que é magia? Claro! 
