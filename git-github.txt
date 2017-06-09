@@ -1,0 +1,2 @@
+O QUE É GIT?
+Git é uma ferramenta que possibilita o armazenamento e a edição dinâmica de códigos, ou seja, um sistema de controle de versão. É ideal para o trabalaho em equipe, dada as ferramentas de histórico repositório etc.
