@@ -1,0 +1,1 @@
+o git é uma forma de criar e desenvolver projetos de forma versificada e guardá-los na nuvem, de forma que outras pessoas possam usar os códigos e modificá-los.
