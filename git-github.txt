@@ -1,2 +1,4 @@
 O QUE É GIT?
 Git é uma ferramenta que possibilita o armazenamento e a edição dinâmica de códigos, ou seja, um sistema de controle de versão. É ideal para o trabalaho em equipe, dada as ferramentas de histórico repositório etc.
+O QUE É GITHUB?
+Usando o git, ele hospeda os códigos e permite a edição e colaboração por partes de outros em seus projetos. é como uma rede social para programação, sendo bem mais sério que isso, uma vex que você pode armazenar os códigos e receber ideias e colaboração para melhorá-lo.
