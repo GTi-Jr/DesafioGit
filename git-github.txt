@@ -1,2 +1,4 @@
 O QUE É GIT?
 	Git é um sistema utilizado para registrar várias versões de arquivos. Ele facilita bastante os trabalhos em equipes, pois permite que várias pessoas acessem e editem o mesmo arquivo, com a preservação de cada versão do arquivo e com a vantagem de essas ações poderem ser realizadas ao mesmo tempo.
+O QUE É GITHUB?
+	Github é um site que hospeda projetos. Ele permite que os usuários acompanhem os projetos de outros, podendo comentar e compartilhar códigos, entre outras interações.
