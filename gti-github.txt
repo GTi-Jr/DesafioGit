@@ -1,0 +1,6 @@
+O QUE É GIT
+Inicialmente, Git é um controle de versão, mas antes disso, uma apresentação básica: O Git,simplesmente, permite que várias pessoas modifiquem um arquivo/projeto/código/... ao mesmo tempo e permite "voltar no tempo" para corrigir o que fez em algum momento. 
+Assim como criamos pastas, colocamos arquivos, modificamo-as e depois salvamos, da mesma forma é com o Git, no entanto, ele oferece as possibilidades já ditas anteriormente. 
+Além do mais, conseguimos saber quem modificou o arquivo/..., o que modificou e quando modificou, através de um histórico.
+Portanto, com essas informações interpretadas, um controlador de versão é um sistema que nos permite gerenciar as modificações geradas em um arquivo/... ou grupos de arquivos/... com o passar do tempo, permitindo a possibilidade de acessarmos diferentes versões ,antes já criadas, para quando houver essa necessidade.
+
