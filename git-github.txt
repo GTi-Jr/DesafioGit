@@ -1,0 +1,2 @@
+O que é GIT?
+É um sistema de controle de versões, que serve para gerenciar todas as alterações realizadas no arquivo ao longo do tempo, sem haver sobrescrição.
