@@ -1,3 +1,6 @@
 O QUE É GIT?
 GIT é uma ferramenta de controle de versão , ou seja, é uma ferramenta para salvar versões do seu projeto sem
 precisar criar vários arquivos do mesmo projeto contendo apenas mudanças.
+
+O QUE É GITHUB?
+Github é uma ferramenta de controle de versão on-line, onde você pode criar repositórios dos seus projetos na nuvem e compartilha-los com toda a comunidade.
