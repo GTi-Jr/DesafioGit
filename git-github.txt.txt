@@ -1,4 +1,8 @@
 O QUE É GIT
-GIT é uma ferramenta utilizada com o propósito de salvar projetos em suas respectivas fases, ou seja, 
-com o GIT é possível armazenar as diferentes versões de um projeto, além de tornar essas versões disponíveis
-para todos os integrantes do projeto, tornando assim o processo mais dinâmico.
+	Git é uma ferramenta utilizada com o propósito de salvar projetos em suas respectivas fases, ou seja, 
+	com o Git é possível armazenar as diferentes versões de um projeto, além de tornar essas versões disponíveis
+	para todos os integrantes do projeto, tornando assim o processo mais dinâmico.
+
+O que é github
+	Github é uma plataforma que oferece oferece algumas funções para quem usa Git. Lá é possível compartilhar
+	os projetos com outras pessoas e acompanhar também.  
