@@ -1,0 +1,4 @@
+O QUE É GIT
+GIT é uma ferramenta utilizada com o propósito de salvar projetos em suas respectivas fases, ou seja, 
+com o GIT é possível armazenar as diferentes versões de um projeto, além de tornar essas versões disponíveis
+para todos os integrantes do projeto, tornando assim o processo mais dinâmico.
