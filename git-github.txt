@@ -1,5 +1,5 @@
 O QUE É GIT
--Git é uma ferramenta que permite versatilidade na codificação, trabalho remoto de grupo e modularização. Poderia dizer que é magia? Claro!
+-Git é uma ferramenta que permite versatilidade na codificação, trabalho remoto de grupo e modularização. Poderia dizer que é magia? Não, é tecnologia.
 
 O que é github
--Repositório do baralho que é aberto (pra quem não tem grana). Portifólio dos programadores
+-Repositório do baralho do meu avô que é aberto (pra quem não tem grana). Portifólio dos programadores.
