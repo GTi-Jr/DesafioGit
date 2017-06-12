@@ -1,1 +1,1 @@
-Git é uma linguagem utilizada para criar repositórios de arquivos.
+Git é uma linguagem utilizada para criar repositórios de arquivos. Github é a plataforma para utilizar essa linguagem.
