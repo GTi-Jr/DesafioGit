@@ -1,1 +1,2 @@
-Git é um programa utilizado para armazenar arquivos em um repositório.
+Git é um programa utilizado para armazenar arquivos em um repositório. É util para 
+criar "backups" durante a realização de um projeto.
