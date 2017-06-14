@@ -1,2 +1,4 @@
 O QUE É GIT.
 É um sistema de controle de versão, que auxilia desenvolvedores a controlarem as modificações em seus projetos/códigos.
+O QUE É GITHUB.
+É a plataforma que ajuda a gerenciar os arquivos GIT.
