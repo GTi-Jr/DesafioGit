@@ -1,3 +1,8 @@
 O QUE É GIT:
 
 É uma aplicação que permite compartilhar o desenvolvimento de um projeto, e tem a possibilidade de retornar a uma etapa anterior caso ocorra erro em alguma etapa do desenvolvimento do projeto.
+
+
+O QUE É GIThub
+
+É uma plataforma online que serve para hospedar códigos. Permite que várias pessoas trabalhem em grupo no mesmo projeto.
