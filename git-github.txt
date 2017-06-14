@@ -1,0 +1,3 @@
+O QUE É GIT
+O que eu entendi foi que é um sistema que te dá "robustez" quando for trabalhar com os códigos. Serve pra quando for fazer alterações no código, sem correr o risco de perder o que já funcionava antes, usando "backups", que o Git chama de branchs.
+Com os branchs, podemos mexer no código sem o risco de bugar o código todo. Um branch é uma "extensão" do código, que ao ser mexida não influencia no código principal.
