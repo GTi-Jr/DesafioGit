@@ -1,0 +1,3 @@
+O QUE É GIT:
+
+É uma aplicação que permite compartilhar o desenvolvimento de um projeto, e tem a possibilidade de retornar a uma etapa anterior caso ocorra erro em alguma etapa do desenvolvimento do projeto.
