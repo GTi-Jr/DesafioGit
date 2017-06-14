@@ -1,3 +1,7 @@
 O QUE É GIT
 O que eu entendi foi que é um sistema que te dá "robustez" quando for trabalhar com os códigos. Serve pra quando for fazer alterações no código, sem correr o risco de perder o que já funcionava antes, usando "backups", que o Git chama de branchs.
 Com os branchs, podemos mexer no código sem o risco de bugar o código todo. Um branch é uma "extensão" do código, que ao ser mexida não influencia no código principal.
+
+O QUE É GITHUB
+Um local onde podemos "organizar" e visualizar os repositórios de códigos, as alterações e os branchs feitos. Cada branch pode (e deve) ser analisado antes de ser anexado ao "master". Isso é feito com o responsável pelo branch pedindo uma avaliação das modificações, e solicitando que alguém faça a avaliação. Se tudo estiver nos conformes, os novos trechos de código são adicionados à master.
+Tem abas com mais detalhes, e tem um sistema de formação de equipes.
