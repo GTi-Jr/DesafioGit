@@ -1,2 +1,4 @@
 O QUE É GIT?
 GIT é um sistema de gerenciamento de versões que auxilia em tarefas de grupos de desenvolvedores, evitando que trabalhos sejam perdidos e as diversas versões no desenvolvimento sejam salvas e possam ser reunidas.
+O QUE É GITHUB?
+O GITHUB pode ser considerado a rede social dos desenvolvedores. É uma plataforma em que os usuários enviam seus projetos e outros usuários podem fazer modificações nesse projeto a fim de torná-lo melhor, isso, claro, com a permissão do dono do projeto. É muito interessante, pois permite que diversas pessoas façam alterações no programa permitindo que ele fique sempre mais atualizado e, caso venha a acontecer algum problema com o projeto, essa ferramenta permite que o usuário retorne a um estado em que ele estava sem esses problemas. 
