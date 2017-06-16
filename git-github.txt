@@ -1,0 +1,2 @@
+O QUE É GIT?
+GIT é um sistema de gerenciamento de versões que auxilia em tarefas de grupos de desenvolvedores, evitando que trabalhos sejam perdidos e as diversas versões no desenvolvimento sejam salvas e possam ser reunidas.
